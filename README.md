@@ -1,4 +1,4 @@
-Dagoma #Discovery200 DIY printer with Melzi Ardentissimo - Custom Marlin Firmware with Panelolu2 support
+Custom Marlin Firmware with Panelolu2 support for Dagoma #Discovery200 DIY printer with Melzi Ardentissimo
 ===================
 
 
@@ -60,9 +60,9 @@ The default baudrate is 250000. This baudrate has less jitter and hence errors t
 
 Buying link
 ===================
-Dagoma #discovery200 [here](http://www.dagoma.fr/shop/)
+**Dagoma** #discovery200 • Buy it [here](http://www.dagoma.fr/shop/)
 
-Panelolu2 [here](http://www.think3dprint3d.com/Panelolu2)
+**Panelolu2** • Buy it [here](http://www.think3dprint3d.com/Panelolu2)
 
 Configuring and compilation:
 ============================
